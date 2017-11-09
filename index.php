@@ -5,7 +5,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Civilisations 2: The Rebirth</title>
-
 <!-- Bootstrap -->
 <link rel="stylesheet" href="css/bootstrap.css">
 
@@ -95,17 +94,12 @@ Curse is where you can access the game files and download the game and updates. 
     </div>
   </div>
 </section>
-<hr>
-<hr>
-<footer class="text-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <p>Copyright © Civilisations 2: The Rebirth. All rights reserved.</p>
-      </div>
-    </div>
-  </div>
-</footer>
+
+<?php
+include "./php/html_helpers.php";
+echo html_helpers::get_footer();
+?>
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
