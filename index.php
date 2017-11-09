@@ -7,7 +7,7 @@
 <title>Civilisations 2: The Rebirth</title>
 
 <!-- Bootstrap -->
-<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="../OneDrive/Documents/Github Website/Civ-Dev.github.io/css/bootstrap.css">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -37,7 +37,6 @@
 			<div class="jumbotron">
   <h1>Civilisations 2: The Rebirth</h1>
   <p>A Modded Minecraft Modpack</p>
-  
 </div>
      
       </div>
@@ -108,8 +107,8 @@ Curse is where you can access the game files and download the game and updates. 
   </div>
 </footer>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.3.min.js"></script> 
+<script src="../OneDrive/Documents/Github Website/Civ-Dev.github.io/js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="js/bootstrap.js"></script>
+<script src="../OneDrive/Documents/Github Website/Civ-Dev.github.io/js/bootstrap.js"></script>
 </body>
 </html>
